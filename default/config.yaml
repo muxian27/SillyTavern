@@ -73,7 +73,7 @@ basicAuthUser:
   username: "user"
   password: "password"
 # Enables CORS proxy middleware
-enableCorsProxy: false
+enableCorsProxy: true
 # CORS settings (applied to all routes)
 cors:
   # Enable or disable CORS middleware
